@@ -4,7 +4,7 @@ This repository contains the source code for a simple website built with Node.js
 
 **Features:**
 
-** Posts:**
+** Posts:*
     * Create, read, update, and delete the posts.
     * View posts with author and content.
 
